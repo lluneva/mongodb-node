@@ -1,0 +1,16 @@
+{
+  "name": "mongo-db-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongodb": "^3.6.20",
+    "dotenv": "^16.0.3",
+    "mongodb": "^3.4.0"
+  }
+}
